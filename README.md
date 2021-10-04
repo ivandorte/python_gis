@@ -14,6 +14,10 @@ Short examples on how to use python to solve most common GIS(and non GIS)-relate
 * [Check if a series of points are inside a circle - Vectorized](https://github.com/ivandorte/python_gis/blob/main/Numpy/01_points_inside_circle_vect.ipynb)
 * [Create a fishnet of rectangular cells](https://github.com/ivandorte/python_gis/blob/main/Numpy/02_fishnet.ipynb)
 
+### [Numba](https://github.com/ivandorte/python_gis/tree/main/Numba)
+
+* [Compute Hillshade using Numba](https://github.com/ivandorte/python_gis/blob/main/Numba/01_hillshade.ipynb)
+
 ### [Comparison](https://github.com/ivandorte/python_gis/tree/main/Comparison)
 
 * [Comparison between Loop - Numpy - Numba](https://github.com/ivandorte/python_gis/blob/main/Comparison/01_loop_vs_numpy_vs_numba.ipynb)
