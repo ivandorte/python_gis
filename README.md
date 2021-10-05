@@ -27,6 +27,10 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 * [Basic network analysis - OSMnx](https://github.com/ivandorte/python_gis/blob/main/Networks/01_osmnx.ipynb)
 * [Basic network analysis - python-igraph](https://github.com/ivandorte/python_gis/blob/main/Networks/02_igraph.ipynb)
 
+### [LP](https://github.com/ivandorte/python_gis/tree/main/LP)
+
+* [TSP](https://github.com/ivandorte/python_gis/blob/main/LP/01_tsp.ipynb)
+
 ### [Shapely](https://github.com/ivandorte/python_gis/tree/main/Shapely)
 
 * [Basics geometric operations](https://github.com/ivandorte/python_gis/blob/main/Shapely/01_gis_basics_shapely.ipynb)
