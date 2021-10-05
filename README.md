@@ -1,5 +1,5 @@
 # python_gis
-Short examples on how to use python to solve most common GIS(and non GIS)-related problems.
+Short examples on how to use python to solve most common GIS (and non GIS) related problems.
 
 ### [Python](https://github.com/ivandorte/python_gis/tree/main/Python)
 
@@ -16,7 +16,7 @@ Short examples on how to use python to solve most common GIS(and non GIS)-relate
 
 ### [Numba](https://github.com/ivandorte/python_gis/tree/main/Numba)
 
-* [Compute Hillshade using Numba](https://github.com/ivandorte/python_gis/blob/main/Numba/01_hillshade.ipynb)
+* [Slope, Aspect, Hillshade](https://github.com/ivandorte/python_gis/blob/main/Numba/01_terrain_algs.ipynb)
 
 ### [Comparison](https://github.com/ivandorte/python_gis/tree/main/Comparison)
 
