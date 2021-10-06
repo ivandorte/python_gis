@@ -38,3 +38,7 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 * [Generate points along line](https://github.com/ivandorte/python_gis/blob/main/Shapely/03_points_along_line_shapely.ipynb)
 * [Divide line in equal parts](https://github.com/ivandorte/python_gis/blob/main/Shapely/04_divide_line_in_equal_parts.ipynb)
 * [Rtree spatial indexing](https://github.com/ivandorte/python_gis/blob/main/Shapely/05_rtree.ipynb)
+
+### [Image Processing](https://github.com/ivandorte/python_gis/tree/main/Image%20Processing)
+
+* [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Image%20Processing/01_extract_roads.ipynb)
