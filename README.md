@@ -39,6 +39,7 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 * [Divide line in equal parts](https://github.com/ivandorte/python_gis/blob/main/Shapely/04_divide_line_in_equal_parts.ipynb)
 * [Rtree spatial indexing](https://github.com/ivandorte/python_gis/blob/main/Shapely/05_rtree.ipynb)
 
-### [Image Processing](https://github.com/ivandorte/python_gis/tree/main/Image%20Processing)
+### [Scikit-image](https://github.com/ivandorte/python_gis/tree/main/Scikit-image)
 
-* [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Image%20Processing/01_extract_roads.ipynb)
+* [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_extract_roads.ipynb)
+* [Least cost path - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/02_least_cost_path.ipynb)
