@@ -1,6 +1,8 @@
 # python_gis
 Short examples on how to use python to solve most common GIS (and non GIS) related problems.
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ### [Python](https://github.com/ivandorte/python_gis/tree/main/Python)
 
 * [Check if a series of points are inside a circle](https://github.com/ivandorte/python_gis/blob/main/Python/01_points_inside_circle_loop.ipynb)
