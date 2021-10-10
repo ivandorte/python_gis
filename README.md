@@ -46,6 +46,10 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 
 * [Basic DEM processing](https://github.com/ivandorte/python_gis/blob/main/GDAL/01_dem_processing.ipynb)
 
+### [OSM](https://github.com/ivandorte/python_gis/tree/main/OSM)
+
+* [Query Overpassturbo](https://github.com/ivandorte/python_gis/blob/main/OSM/01_overpassturbo.ipynb)
+
 ### [Scikit-image](https://github.com/ivandorte/python_gis/tree/main/Scikit-image)
 
 * [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_extract_roads.ipynb)
