@@ -19,6 +19,7 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 ### [Numba](https://github.com/ivandorte/python_gis/tree/main/Numba)
 
 * [Slope, Aspect, Hillshade](https://github.com/ivandorte/python_gis/blob/main/Numba/01_terrain_algs.ipynb)
+* [Random walk 2D](https://github.com/ivandorte/python_gis/blob/main/Numba/02_random_walk.ipynb)
 
 ### [Comparison](https://github.com/ivandorte/python_gis/tree/main/Comparison)
 
