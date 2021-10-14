@@ -55,6 +55,6 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 * [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_extract_roads.ipynb)
 * [Least cost path - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/02_least_cost_path.ipynb)
 
-### [Climate Models](https://github.com/ivandorte/python_gis/tree/main/Climate Models)
+### [Climate Models](https://github.com/ivandorte/python_gis/tree/main/Climate-Models)
 
-* [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Climate Models/01_no_atmosphere.ipynb)
+* [No-Atmosphere Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/01_no_atmosphere.ipynb)
