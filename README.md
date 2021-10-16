@@ -58,3 +58,4 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 ### [Climate Models](https://github.com/ivandorte/python_gis/tree/main/Climate-Models)
 
 * [No-Atmosphere Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/01_no_atmosphere.ipynb)
+* [One-Layer Atmosphere Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/02_one_layer_atmosphere.ipynb)
