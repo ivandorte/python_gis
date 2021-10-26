@@ -62,3 +62,6 @@ Short examples on how to use python to solve most common GIS (and non GIS) relat
 * [One-Layer Atmosphere Model - CO2, H2O](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/03_one_layer_atmosphere_CO2_H2O.ipynb)
 * [Zero dimensional EBM - Albedo](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/04_zero_dimensional_albedo_feedback.ipynb)
 * [Radiative-Convective Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/05_radiative_convective.ipynb)
+* [Shoebox Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/06_global_climate_shoebox.ipynb)
+* [EBCM](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/07_EBCM.ipynb)
+* [EBCMS](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/08_EBCMS.ipynb)
