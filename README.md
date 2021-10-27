@@ -1,5 +1,5 @@
 # python_gis
-Short examples on how to use python to solve most common GIS (and non GIS) related problems.
+Collection of short geospatial scripts and more....
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
