@@ -20,6 +20,7 @@ Collection of short geospatial scripts and more....
 
 * [Slope, Aspect, Hillshade](https://github.com/ivandorte/python_gis/blob/main/Numba/01_terrain_algs.ipynb)
 * [Random walk 2D](https://github.com/ivandorte/python_gis/blob/main/Numba/02_random_walk.ipynb)
+* [Smooth raster](https://github.com/ivandorte/python_gis/blob/main/Numba/03_smooth_raster.ipynb)
 
 ### [Comparison](https://github.com/ivandorte/python_gis/tree/main/Comparison)
 
