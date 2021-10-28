@@ -52,8 +52,7 @@ Collection of short geospatial scripts and more....
 
 ### [Scikit-image](https://github.com/ivandorte/python_gis/tree/main/Scikit-image)
 
-* [Road extraction - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_extract_roads.ipynb)
-* [Least cost path - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/02_least_cost_path.ipynb)
+* [Least cost path - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_least_cost_path.ipynb)
 
 ### [Climate Models](https://github.com/ivandorte/python_gis/tree/main/Climate-Models)
 
