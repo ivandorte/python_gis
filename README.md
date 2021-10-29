@@ -22,10 +22,6 @@ Collection of short geospatial scripts and more....
 * [Random walk 2D](https://github.com/ivandorte/python_gis/blob/main/Numba/02_random_walk.ipynb)
 * [Smooth raster](https://github.com/ivandorte/python_gis/blob/main/Numba/03_smooth_raster.ipynb)
 
-### [Comparison](https://github.com/ivandorte/python_gis/tree/main/Comparison)
-
-* [Comparison between Loop - Numpy - Numba](https://github.com/ivandorte/python_gis/blob/main/Comparison/01_loop_vs_numpy_vs_numba.ipynb)
-
 ### [Networks](https://github.com/ivandorte/python_gis/tree/main/Networks)
 
 * [Basic network analysis - OSMnx](https://github.com/ivandorte/python_gis/blob/main/Networks/01_osmnx.ipynb)
