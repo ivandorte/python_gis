@@ -51,13 +51,13 @@ Collection of short geospatial scripts and more....
 
 * [Least cost path - WIP](https://github.com/ivandorte/python_gis/blob/main/Scikit-image/01_least_cost_path.ipynb)
 
-### [Climate Models](https://github.com/ivandorte/python_gis/tree/main/Climate-Models)
+### [Climate](https://github.com/ivandorte/python_gis/tree/main/Climate)
 
-* [No-Atmosphere Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/01_no_atmosphere.ipynb)
-* [One-Layer Atmosphere Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/02_one_layer_atmosphere.ipynb)
-* [One-Layer Atmosphere Model - CO2, H2O](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/03_one_layer_atmosphere_CO2_H2O.ipynb)
-* [Zero dimensional EBM - Albedo](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/04_zero_dimensional_albedo_feedback.ipynb)
-* [Radiative-Convective Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/05_radiative_convective.ipynb)
-* [Shoebox Model](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/06_global_climate_shoebox.ipynb)
-* [EBCM](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/07_EBCM.ipynb)
-* [EBCMS](https://github.com/ivandorte/python_gis/blob/main/Climate-Models/08_EBCMS.ipynb)
+* [No-Atmosphere Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate/01_no_atmosphere_model.ipynb)
+* [One-Layer Atmosphere Model](https://github.com/ivandorte/python_gis/blob/main/Climate/02_one_layer_atmosphere_model.ipynb)
+* [One-Layer Atmosphere Model - CO2, H2O](https://github.com/ivandorte/python_gis/blob/main/Climate/03_one_layer_atmosphere_CO2_H2O_model.ipynb)
+* [Zero dimensional EBM - Albedo](https://github.com/ivandorte/python_gis/blob/main/Climate/04_zero_dimensional_albedo_feedback_model.ipynb)
+* [Radiative-Convective Model](https://github.com/ivandorte/python_gis/blob/main/Climate/05_radiative_convective_model.ipynb)
+* [Shoebox Model](https://github.com/ivandorte/python_gis/blob/main/Climate/06_global_climate_shoebox_model.ipynb)
+* [Energy Balance Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate/07_energy_balance_climate_model.ipynb)
+* [Energy Balance Climate with Seasons](https://github.com/ivandorte/python_gis/blob/main/Climate/08_energy_balance_climate_seasons_model.ipynb)
