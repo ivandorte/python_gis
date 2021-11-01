@@ -61,3 +61,4 @@ Collection of short geospatial scripts and more....
 * [Shoebox Model](https://github.com/ivandorte/python_gis/blob/main/Climate/06_global_climate_shoebox_model.ipynb)
 * [Energy Balance Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate/07_energy_balance_climate_model.ipynb)
 * [Energy Balance Climate with Seasons](https://github.com/ivandorte/python_gis/blob/main/Climate/08_energy_balance_climate_seasons_model.ipynb)
+* [Global CO2 Trend](https://github.com/ivandorte/python_gis/blob/main/Climate/09_global_trends_CO2.ipynb)
