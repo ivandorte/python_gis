@@ -13,6 +13,9 @@ RUN apt-get install -y gdal-bin libgdal-dev
 RUN export CPLUS_INCLUDE_PATH=/usr/include/gdal
 RUN export C_INCLUDE_PATH=/usr/include/gdal
 
+# install libgeos-dev
+RUN apt-get install -y libgeos-dev
+
 # Upgrade installed packages
 RUN apt-get update && apt-get upgrade -y && apt-get clean
 
@@ -37,4 +40,5 @@ RUN curl -s https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
     rm get-pip.py
 
 # Install packages
-RUN pip install matplotlib pandas jupyterlab nbformat nbconvert GDAL geopandas shapely rasterio fiona cartopy basemap rtree pysal mapclassify
+RUN pip install matplotlib pandas jupyterlab nbformat nbconvert GDAL fiona shapely rtree rasterio geopandas pyproj pyshp cartopy pysal mapclassify
+RUN pip install https://github.com/matplotlib/basemap/archive/master.zip
