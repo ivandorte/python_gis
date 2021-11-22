@@ -2,6 +2,10 @@ FROM ubuntu:18.04
 LABEL maintainer="ivandorte@gmail.com"
 
 # Add ubuntugis/ppa
+RUN apt-get update && \
+    apt-get install -y software-properties-common && \
+    rm -rf /var/lib/apt/lists/*
+
 RUN add-apt-repository ppa:ubuntugis/ppa
 
 # install the GDAL/OGR package & GDAL development libraries
