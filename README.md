@@ -3,6 +3,9 @@ Collection of short geospatial scripts and more....
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+## Daily updated - Global CO<sub>2</sub> Trend
+<img src=Climate/09_DailyGlobalCO2.jpg width="600">
+
 ### [Python](https://github.com/ivandorte/python_gis/tree/main/Python)
 
 * [Check if a series of points are inside a circle](https://github.com/ivandorte/python_gis/blob/main/Python/01_points_inside_circle_loop.ipynb)
@@ -61,4 +64,8 @@ Collection of short geospatial scripts and more....
 * [Shoebox Model](https://github.com/ivandorte/python_gis/blob/main/Climate/06_global_climate_shoebox_model.ipynb)
 * [Energy Balance Climate Model](https://github.com/ivandorte/python_gis/blob/main/Climate/07_energy_balance_climate_model.ipynb)
 * [Energy Balance Climate with Seasons](https://github.com/ivandorte/python_gis/blob/main/Climate/08_energy_balance_climate_seasons_model.ipynb)
-* [Global CO2 Trend](https://github.com/ivandorte/python_gis/blob/main/Climate/09_global_trends_CO2.ipynb)
+* [Daily updated - Global CO2 Trend](https://github.com/ivandorte/python_gis/blob/main/Climate/09_global_trends_CO2.ipynb)
+
+### [COVID](https://github.com/ivandorte/python_gis/tree/main/COVID)
+
+* [Daily updated - Vaccinated vs Deaths Bivariate Map (EU-27)](https://github.com/ivandorte/python_gis/blob/main/COVID/01_Vax_vs_Deaths_Biv_Map.ipynb)
