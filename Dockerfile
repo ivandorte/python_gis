@@ -1,5 +1,14 @@
 FROM ubuntu:18.04
 LABEL maintainer="ivandorte@gmail.com"
+
+# Add ubuntugis/ppa
+RUN add-apt-repository ppa:ubuntugis/ppa
+
+# install the GDAL/OGR package & GDAL development libraries
+RUN apt-get install -y gdal-bin libgdal-dev
+RUN export CPLUS_INCLUDE_PATH=/usr/include/gdal
+RUN export C_INCLUDE_PATH=/usr/include/gdal
+
 # Upgrade installed packages
 RUN apt-get update && apt-get upgrade -y && apt-get clean
 
@@ -24,4 +33,4 @@ RUN curl -s https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
     rm get-pip.py
 
 # Install packages
-RUN pip install matplotlib pandas jupyterlab nbformat nbconvert
+RUN pip install matplotlib pandas jupyterlab nbformat nbconvert GDAL geopandas shapely rasterio fiona cartopy basemap rtree pysal mapclassify

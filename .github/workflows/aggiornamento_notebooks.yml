@@ -1,0 +1,27 @@
+name: Update notebooks
+
+on:
+  push:
+  schedule:
+     - cron:  '0 0 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build docker
+      id: build
+      run: |
+        docker build --tag update_notebooks .
+        
+    - name: Run docker to update notebooks
+      id: run1
+      run: |
+        docker run --rm --name my-running-script -v "$PWD":/usr/src/myapp -w /usr/src/myapp update_notebooks python run_notebooks.py 
+        ls
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update notebooks
