@@ -6,6 +6,9 @@ Collection of short geospatial scripts and more....
 ## Daily updated - Global CO<sub>2</sub> Trend
 <img src=Climate/09_DailyGlobalCO2.jpg width="600">
 
+## Daily updated - Vaccination share vs Covid-19 deaths/mln (EU-27), 30-day period
+<img src=COVID/01_Vax_vs_Deaths_Biv_Map.jpg width="600">
+
 ### [Python](https://github.com/ivandorte/python_gis/tree/main/Python)
 
 * [Check if a series of points are inside a circle](https://github.com/ivandorte/python_gis/blob/main/Python/01_points_inside_circle_loop.ipynb)

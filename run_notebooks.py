@@ -31,7 +31,7 @@ scriptpath = path.dirname(path.realpath(__file__))
 chdir(scriptpath)
 
 # Finally, update notebooks/results
-notebooks = ["Climate/09_global_trends_CO2.ipynb", "COVID/01_Vax_vs_Deaths_Biv_Map.ipynb"]
+notebooks = ["Climate/09_global_trends_CO2.ipynb", "COVID/01_Vax_vs_Deaths_Biv_Map_Basemap.ipynb"]
 
 for notebook in notebooks:
     run_notebook(notebook)

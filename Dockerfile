@@ -6,15 +6,13 @@ RUN apt-get update && \
     apt-get install -y software-properties-common && \
     rm -rf /var/lib/apt/lists/*
 
-RUN add-apt-repository ppa:ubuntugis/ppa
+RUN add-apt-repository -y ppa:ubuntugis/ubuntugis-unstable
 
 # install the GDAL/OGR package & GDAL development libraries
-RUN apt-get install -y gdal-bin libgdal-dev
+RUN apt-get install -y gdal-bin libgdal-dev libproj-dev libgeos-dev
+
 RUN export CPLUS_INCLUDE_PATH=/usr/include/gdal
 RUN export C_INCLUDE_PATH=/usr/include/gdal
-
-# install libgeos-dev
-RUN apt-get install -y libgeos-dev
 
 # Upgrade installed packages
 RUN apt-get update && apt-get upgrade -y && apt-get clean
@@ -40,5 +38,6 @@ RUN curl -s https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
     rm get-pip.py
 
 # Install packages
-RUN pip install matplotlib pandas jupyterlab nbformat nbconvert GDAL fiona shapely rtree rasterio geopandas pyproj pyshp cartopy pysal mapclassify
+RUN pip install shapely --upgrade --no-binary shapely
+RUN pip install matplotlib pandas jupyterlab nbformat nbconvert fiona rtree rasterio pyproj geopandas pysal mapclassify
 RUN pip install https://github.com/matplotlib/basemap/archive/master.zip
