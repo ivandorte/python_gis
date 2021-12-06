@@ -28,6 +28,9 @@ Collection of short geospatial scripts and more....
 * [Random walk 2D](https://github.com/ivandorte/python_gis/blob/main/Numba/02_random_walk.ipynb)
 * [Smooth raster](https://github.com/ivandorte/python_gis/blob/main/Numba/03_smooth_raster.ipynb)
 
+### [Mobility](https://github.com/ivandorte/python_gis/tree/main/Mobility)
+* [TomTom Traffic index](https://github.com/ivandorte/python_gis/blob/main/Mobility/01_TomTom_traffic.ipynb)
+
 ### [Networks](https://github.com/ivandorte/python_gis/tree/main/Networks)
 
 * [Basic network analysis - OSMnx](https://github.com/ivandorte/python_gis/blob/main/Networks/01_osmnx.ipynb)
