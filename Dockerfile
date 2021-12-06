@@ -39,4 +39,5 @@ RUN curl -s https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
 
 # Install packages
 RUN pip install shapely --upgrade --no-binary shapely
-RUN pip install matplotlib pandas jupyterlab nbformat nbconvert fiona rtree rasterio pyproj geopandas pysal mapclassify basemap
+RUN pip install matplotlib pandas jupyterlab nbformat nbconvert fiona rtree rasterio pyproj geopandas pysal mapclassify
+RUN pip install https://github.com/matplotlib/basemap/archive/refs/tags/v1.2.2rel.zip
