@@ -51,6 +51,7 @@ Collection of short geospatial scripts and more....
 ### [GDAL](https://github.com/ivandorte/python_gis/tree/main/GDAL)
 
 * [Basic DEM processing](https://github.com/ivandorte/python_gis/blob/main/GDAL/01_dem_processing.ipynb)
+* [Smooth contours](https://github.com/ivandorte/python_gis/blob/main/GDAL/02_Smooth_contours.ipynb)
 
 ### [OSM](https://github.com/ivandorte/python_gis/tree/main/OSM)
 
