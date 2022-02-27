@@ -3,6 +3,9 @@ Collection of short geospatial scripts and more....
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+## I stand with Ukraine!!! 🌻REFUSE RESIST to oppression!!!  
+<img src=Flag_of_Ukraine.svg width="600">
+
 ## Daily updated - Global CO<sub>2</sub> Trend
 <img src=Climate/09_DailyGlobalCO2.jpg width="600">
 
