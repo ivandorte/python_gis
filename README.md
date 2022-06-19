@@ -24,6 +24,10 @@ Collection of short geospatial scripts and more....
 
 * [Add a watermark to a figure](https://github.com/ivandorte/python_gis/blob/main/Matplotlib/01_watermark.ipynb)
 
+### [Plotnine](https://github.com/ivandorte/python_gis/tree/main/Plotnine)
+
+* [Small multiple maps](https://github.com/ivandorte/python_gis/blob/main/Plotnine/01_small_multiples.ipynb)
+
 ### [Numpy](https://github.com/ivandorte/python_gis/tree/main/Numpy)
 
 * [Check if a series of points are inside a circle - Vectorized](https://github.com/ivandorte/python_gis/blob/main/Numpy/01_points_inside_circle_vect.ipynb)
