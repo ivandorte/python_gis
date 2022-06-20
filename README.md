@@ -39,6 +39,9 @@ Collection of short geospatial scripts and more....
 * [Random walk 2D](https://github.com/ivandorte/python_gis/blob/main/Numba/02_random_walk.ipynb)
 * [Smooth raster](https://github.com/ivandorte/python_gis/blob/main/Numba/03_smooth_raster.ipynb)
 
+### [Data translation](https://github.com/ivandorte/python_gis/tree/main/Data_translation)
+* [Translate data from a KML file (vi to en)](https://github.com/ivandorte/python_gis/blob/main/Data_translation/01_KML_translation.ipynb)
+
 ### [Mobility](https://github.com/ivandorte/python_gis/tree/main/Mobility)
 * [TomTom Traffic index](https://github.com/ivandorte/python_gis/blob/main/Mobility/01_TomTom_traffic.ipynb)
 
