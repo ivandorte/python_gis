@@ -10,9 +10,6 @@ Collection of short geospatial scripts and more....
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## Daily updated - Global CO<sub>2</sub> Trend
-<img src=Climate/09_DailyGlobalCO2.jpg width="600">
-
 ## Daily updated - Vaccination share vs Covid-19 deaths/mln (EU-27) from 2021/09/01
 <img src=COVID/01_Vax_vs_Deaths_Biv_Map.jpg width="600">
 
