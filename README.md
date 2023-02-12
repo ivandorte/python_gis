@@ -29,7 +29,7 @@ Collection of short geospatial scripts and more....
 
 ### [Holoviz](https://github.com/ivandorte/python_gis/tree/main/Holoviz)
 
-* [Bezier Curves](https://github.com/ivandorte/python_gis/blob/main/GDAL/01_graph_bezier.ipynb)
+* [Bezier Curves](https://github.com/ivandorte/python_gis/blob/main/Holoviz/01_graph_bezier.ipynb)
 
 ### [LP](https://github.com/ivandorte/python_gis/tree/main/LP)
 
