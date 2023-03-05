@@ -30,6 +30,7 @@ Collection of short geospatial scripts and more....
 ### [Holoviz](https://github.com/ivandorte/python_gis/tree/main/Holoviz)
 
 * [Bezier Curves](https://github.com/ivandorte/python_gis/blob/main/Holoviz/01_graph_bezier.ipynb)
+* [Datashader - OSM data](https://github.com/ivandorte/python_gis/blob/main/Holoviz/02_datashader_osm.ipynb)
 
 ### [LP](https://github.com/ivandorte/python_gis/tree/main/LP)
 
