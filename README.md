@@ -5,7 +5,7 @@ Collection of short geospatial scripts and more....
 
 ### [COVID](https://github.com/ivandorte/python_gis/tree/main/COVID)
 
-* [Vaccinated vs Deaths Bivariate Map (EU-27)](https://github.com/ivandorte/python_gis/blob/main/COVID/01_Vax_vs_Deaths_Biv_Map.ipynb)
+* [Vaccinated vs Deaths Bivariate Map (EU-27)](https://github.com/ivandorte/python_gis/blob/main/COVID/01_Vax_vs_Deaths_Biv_Map_Basemap.ipynb)
 
 ### [Climate](https://github.com/ivandorte/python_gis/tree/main/Climate)
 
